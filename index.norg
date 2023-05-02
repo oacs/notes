@@ -1,0 +1,66 @@
+@document.meta
+title: index
+description: 
+authors: oacs
+categories: 
+created: 2023-05-01
+updated: 2023-05-02
+version: 1.1.1
+@end
+
+* Welcome to OACS notes
+The gate to knowledge on the palm of my hands
+
+** TODO LIST
+superlist
+
+*** Dotfiles
+- (x) change theme to tokyonight
+- (x) setup norg 
+- (x) move tmux conf to .dotfiles
+- (x) make tmux shortcuts for tms
+- (x) make waybar-pomodoro shortcuts for hyprland to toggle
+    - ( ) install neorg telescope
+
+*** Newtab  
+- (x ) add bookmarks 
+- (x ) make time hh:mm 
+- (x) change new tab -> openai chat url
+- (x) add linkedin url
+- (  ) update documentation
+- (  ) make bookmarks a json by params
+
+*** Job hunt  
+- (x) checkear reuniones de la semana 
+
+*** Waybar pomodoro  
+- (  ) add toggle sound to waybar-pomodoro
+- (  ) stop music before sound and play after
+- (  ) add skip current timer
+- (  ) reset pomodoros
+
+*** Learn & Growth  
+- (  ) learn more of netrw {https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/}[blog using ntrw]
+    - (  ) learn more of tmux {https://www.youtube.com/watch?v=DzNmUNvnB04&t=15s}[tmux video]
+    - (  ) learn more of solid {https://www.youtube.com/watch?v=q1qKv5TBaOA}[how principled coders outperform the competition video]
+
+*** Help Bebe  
+- (x) Move tailwindcss book to kindle
+    - ( ) Download this books:
+    -- ( ) the design of everyday things
+    -- ( ) universal principles of design
+    -- ( ) sketching user experiences workbook
+    -- ( ) the joy of us
+    -- ( ) 101 design methods
+    -- ( ) dont make me think
+    -- ( ) the creative habit
+    -- ( ) out of our minds the power of being creative
+** Job hunt
+Let's find a job together:
+- (! ) Bethany Whitting 04/05/23 - 3pm CEST - *9am EST*
+-- Front: Vue, GraphQL, Typescript, Storybook
+-- Back: Node, AWS
+-- ( ) Check Storybook
+- (! ) Arthur Dutra 03/05/23 - 5pm CEST - *11am EST*
+   -- ( ) send cv ta arthur
+-- Remotely meeting
