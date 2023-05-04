@@ -13,6 +13,7 @@ The gate to knowledge on the palm of my hands
 
 ** TODO LIST
 superlist
+   - arch setup safe ssh {https://wiki.mozilla.org/Security/Guidelines/OpenSSH} {https://www.ssh-audit.com/hardening_guides.html}
 
 *** Dotfiles
 - (x) change theme to tokyonight
@@ -21,6 +22,7 @@ superlist
 - (x) make tmux shortcuts for tms
 - (x) make waybar-pomodoro shortcuts for hyprland to toggle
     - ( ) install neorg telescope
+    - ( ) check obsidian.nvim
 
 *** Newtab  
 - (x ) add bookmarks 
@@ -64,3 +66,4 @@ Let's find a job together:
    -- (x) send cv ta arthur
    -- ( ) arreglarme para la entrevista
 -- Remotely meeting
+
