@@ -4,7 +4,7 @@ description:
 authors: oacs
 categories: 
 created: 2023-05-01
-updated: 2023-05-02
+updated: 2023-05-03
 version: 1.1.1
 @end
 
@@ -38,18 +38,17 @@ superlist
 - (  ) stop music before sound and play after
 - (  ) add skip current timer
 - (  ) reset pomodoros
+    - (  ) upadte readme with image/gif
 
 *** Learn & Growth  
 - (  ) learn more of netrw {https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/}[blog using ntrw]
-    - (  ) learn more of tmux {https://www.youtube.com/watch?v=DzNmUNvnB04&t=15s}[tmux video]
+    - (x ) learn more of tmux {https://www.youtube.com/watch?v=DzNmUNvnB04&t=15s}[tmux video]
     - (  ) learn more of solid {https://www.youtube.com/watch?v=q1qKv5TBaOA}[how principled coders outperform the competition video]
 
 *** Help Bebe  
 - (x) Move tailwindcss book to kindle
-    - ( ) Download this books:
-    -- ( ) the design of everyday things
-    -- ( ) universal principles of design
-    -- ( ) sketching user experiences workbook
+    - (-) Download this books:
+    -- (x) sketching user experiences workbook
     -- ( ) the joy of us
     -- ( ) 101 design methods
     -- ( ) dont make me think
@@ -61,6 +60,7 @@ Let's find a job together:
 -- Front: Vue, GraphQL, Typescript, Storybook
 -- Back: Node, AWS
 -- ( ) Check Storybook
-- (! ) Arthur Dutra 03/05/23 - 5pm CEST - *11am EST*
-   -- ( ) send cv ta arthur
+- ( ) Arthur Dutra 03/05/23 - 5pm CEST - *11am EST*
+   -- (x) send cv ta arthur
+   -- ( ) arreglarme para la entrevista
 -- Remotely meeting
