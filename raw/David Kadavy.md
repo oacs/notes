@@ -1,3 +1,10 @@
+---
+id: "David Kadavy"
+aliases:
+  - "Libros"
+tags: []
+---
+
 
 # Libros
 - [[Digital Zettelkasten]]
@@ -7,3 +14,4 @@
 - How to Write a Book
 
 >[[Digital Zettelkasten - Highlights#^ref-22251]]
+

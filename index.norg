@@ -4,7 +4,7 @@ description:
 authors: oacs
 categories: 
 created: 2023-05-01
-updated: 2023-05-03
+updated: 2023-05-04
 version: 1.1.1
 @end
 
@@ -58,7 +58,7 @@ superlist
     -- ( ) out of our minds the power of being creative
 ** Job hunt
 Let's find a job together:
-- (! ) Bethany Whitting 04/05/23 - 3pm CEST - *9am EST*
+   - (! ) Bethany Whitting 10/05/23 - 3pm CEST - *9am EST*
 -- Front: Vue, GraphQL, Typescript, Storybook
 -- Back: Node, AWS
 -- ( ) Check Storybook
