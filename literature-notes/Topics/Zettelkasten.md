@@ -1,3 +1,10 @@
+---
+id: "Zettelkasten"
+aliases:
+  - "Anatomía de un Zettelkasten"
+tags: []
+---
+
  Tambien conocido como "Slip box" es un conjunto de slips o "Zettel" vinculados entre ellos
 
 ## Anatomía de un Zettelkasten

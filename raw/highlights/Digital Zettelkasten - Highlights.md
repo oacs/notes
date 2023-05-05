@@ -1,3 +1,10 @@
+---
+id: "Digital Zettelkasten - Highlights"
+aliases:
+  - "5. What is a Zettelkasten for?"
+tags: []
+---
+
 # 5. What is a Zettelkasten for?
 
 Know what to read next: Your Zettelkasten helps you follow your curiosity in a productive way. If you're looking for something to read, you can look in your Zettelkasten to see what sparks your interest. Whatever you choose, exploring that topic will drive your writing projects forward.
