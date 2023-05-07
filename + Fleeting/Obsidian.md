@@ -11,4 +11,4 @@ Algunos casos de usos de los hashtags:
 - `#toNote`: es una idea o concepto que necesita ser transferida a una nota
 
 
-[[raw/Zettelkasten]]
+[[+ Fleeting/Zettelkasten]]
