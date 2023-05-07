@@ -53,7 +53,12 @@ How ta take smart notes, Soenke Ahrens
 
 Raw | Literature -> Permanent -> Draft -> Paper
 
-We gather ideas/notes -> We polish the info -> We glued together -> We make a paper
+Read/Investigate -> We gather ideas/notes -> We polish the info -> We glued together -> We make a paper
+
+We don't need to know what its going to be the end goal on writing, we can't know for sure unless we already have a big picture
+
+### Let the work carry you forward
+We should avoid forcing us to put energy on what we are writing and instead the writing should be our fuel, we should let the excitement of our curiosity shine
 
 ### Tools need it
 

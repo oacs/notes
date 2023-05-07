@@ -22,14 +22,14 @@ Las notas de literatura como su nombre lo indica, son utilizadas para realizar r
 
 Son notas que utilizarías de forma tradicional a la hora de aprender algo nuevo, tienen que estar escritas en mis propias palabras y suelen ser mas largas y detalladas debido a que es un tema al que estas abordando
 
-La mayor utilidad de las literature notes es que son la base para realizar las [[Zettelkasten#Permanent Note]], recopilan la información necesaria y estructuran el tren de ideas que se elaboraron para crear un pedazo de información que es de alto valor
+La mayor utilidad de las literature notes es que son la base para realizar las [[raw/Zettelkasten#Permanent Note]], recopilan la información necesaria y estructuran el tren de ideas que se elaboraron para crear un pedazo de información que es de alto valor
 
 ### Permanent Note
 Es la idea mas refinada de un Zettelkasten, es un idea simple puesta en pocas palabras, al hora de ir mas en detalles en un concepto siempre es bueno tener una forma de realizar un pequeño mapa mental que sirva para digerir el tema que se esta abordando
 
 Si hay algo que quisiera recordar son las ideas permanentes, ya que sintetizan los conceptos o conocimientos en simples palabras sin perder su significado
 
-Las permanent notes van de la mano con las [[Zettelkasten#Literature note]], una permanent note seria el resumen del contenido de una Literature note, que seria la información mas util con la que me quisiera quedar de un tema en especifico
+Las permanent notes van de la mano con las [[raw/Zettelkasten#Literature note]], una permanent note seria el resumen del contenido de una Literature note, que seria la información mas util con la que me quisiera quedar de un tema en especifico
 
 ## My flujo de Zettelkasten
 Si una idea que esta raw y no esta claro su scope/alcance puede seguir el siguiente flujo:

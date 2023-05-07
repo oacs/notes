@@ -11,9 +11,9 @@ Tomando en cuenta la disposicion y la friccion que tengo ahora mismo con la escr
 ![[Drawing 2023-03-19 10.17.09.excalidraw]]
 
 Tenemos 3 categorias de notas:
-- Raw -> [[Zettelkasten#Fleeting note |Fleeting notes]] -> [[Daily Notes]]
-- Literature -> [[Zettelkasten#Literature note|Literature notes]]
-- Distilled -> [[Zettelkasten#Permanent Note|Permanent Note]]
+- Raw -> [[raw/Zettelkasten#Fleeting note|Fleeting notes]] -> [[Daily Notes]]
+- Literature -> [[raw/Zettelkasten#Literature note|Literature notes]]
+- Distilled -> [[raw/Zettelkasten#Permanent Note|Permanent Note]]
 
 ## Raw
 

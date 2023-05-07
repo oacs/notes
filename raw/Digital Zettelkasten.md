@@ -10,7 +10,7 @@ full name: Digital Zettelkasten: Principles, Methods, & Examples
 (Al guardar aca todos mis temas de interes siempre es bueno buscar dentro de mi segundo cerebro algo para leer)
 
 ## Ventajas
-La ventaja principal de llevar un [zettelkasten](Zettelkasten) es mejorar tu escritura y poder consumir mayores ideas porque son plasmadas y procesadas, reduciendo la carga cognitiva al consumir informacion
+La ventaja principal de llevar un [zettelkasten](raw/Zettelkasten.md) es mejorar tu escritura y poder consumir mayores ideas porque son plasmadas y procesadas, reduciendo la carga cognitiva al consumir informacion
 
 Entre otras ventajas tenemos:
 - Retienes lo que lees
