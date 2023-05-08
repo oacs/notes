@@ -1,13 +1,5 @@
----
-id: "Zettelkasten"
-aliases:
-  - "Zettelkasten"
-tags: []
----
-
-# Zettelkasten
-**Date** 2023-05-06-Sat
-
+**Date** 2023-05-06
+Tags: #🌱
 **Summmary** Overview of the Zettelkasten note system
 
 ## Note linked from

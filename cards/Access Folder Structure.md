@@ -3,7 +3,7 @@ Tags: #🌱
 **Summmary** Explains the ACCESS folder structure from the video [^1]
 
 ## Note linked from
-[[07-05-2023]]
+[[2023-05-07]]
 
 ## Bibliography
 [Folders to link](https://www.youtube.com/watch?v=p0zWJ-TLghw)

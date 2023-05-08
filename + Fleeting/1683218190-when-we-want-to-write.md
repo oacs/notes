@@ -31,5 +31,5 @@ We write for many things, every idea should start with a note, the mind should w
 - To remember something
 
 ## References:
-[https://jacobzelko.com/08032021134232-notes-template/](How to take notes)
+
 

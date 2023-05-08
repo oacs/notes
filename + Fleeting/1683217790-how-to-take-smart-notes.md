@@ -6,7 +6,7 @@ aliases:
   - "How to take smart Notes"
 tags:
   - "notes"
-  - "note-taking"
+  - [ ] "note-taking"
   - "zettelkasten"
   - "productivity"
 ---
