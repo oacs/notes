@@ -15,7 +15,7 @@ tags:
 *Summmary* in which cases we need to write notes
 
 ## Note linked from
-
+[@How to take smart notes]
 
 ## Bibliography
 How ta take smart notes, Soenke Ahrens

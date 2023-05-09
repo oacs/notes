@@ -1,5 +1,4 @@
-Make a  videogame
-Creating a video game involves several stages, including planning, design, development, testing, and marketing. Here's a step-by-step guide to help you get started:
+Creating a video game involves several stages, including planning, design, development, testing, and marketing. Here's a step-by-step guide to get started:
 
 1. Conceptualize your game idea:
    - Determine the genre (e.g., action, adventure, puzzle, etc.).
