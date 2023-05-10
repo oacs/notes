@@ -15,6 +15,7 @@ Tags: #📙
 ## Notes
 
 ### Writing
+
 - [[1683218190-when-we-want-to-write|When we want to write?]]
 - [[1683280614-why-we-need-to-write|Why we need to write]]
 
