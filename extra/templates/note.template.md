@@ -1,4 +1,4 @@
-**Date** {{date}}
+**Date**  [[<% tp.date.now("YYYY-MM-DD") %>]] 
 Tags: #🌱
 **Summmary** 
 
@@ -8,5 +8,6 @@ Tags: #🌱
 
 ## Notes
 
+### <% tp.file.cursor()%>
 ## References:
 
