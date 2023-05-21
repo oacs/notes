@@ -8,7 +8,7 @@ title:
 ---
 Date [[2023-05-09]]
 Tags: #📙 
-**Summmary** My notes from reading how to take smart notes from Soenke Ahrens
+**Summary** My notes from reading how to take smart notes from Soenke Ahrens
 
 ## Bibliography
 
@@ -16,16 +16,16 @@ Tags: #📙
 
 ### Writing
 
-- [[1683218190-when-we-want-to-write|When we want to write?]]
-- [[1683280614-why-we-need-to-write|Why we need to write]]
+- [[When to write notes?|When we want to write?]]
+- [[Why we need to write?|Why we need to write]]
 
 ### Notes   
 
-- [[1683281574-fleeting-notes|Fleeting notes]]
-- [[1683282022-literature-notes|Literature notes]]
-    - [[1683282375-permanent-notes|Permanent notes]]
+- [[Fleeting Notes|Fleeting notes]]
+- [[Literature Notes|Literature notes]]
+    - [[Permanent Notes|Permanent notes]]
 
-### Writting a paper step by step
+### Writing a paper step by step
 
 1. Make fleeting notes
 2. Make literature notes
@@ -38,8 +38,8 @@ Tags: #📙
     - Merge with other ideas to create a new one
 4. Link your notes
 - All permanent notes need to be linked
-5. Choose your topics and questions within your research, use what you have to see whats missing or waht you need to know
-- Don't hang on to an idea, if something interest you, switch to what atracts your attention
+5. Choose your topics and questions within your research, use what you have to see whats missing or what you need to know
+- Don't hang on to an idea, if something interest you, switch to what attracts your attention
 6. Choose what you want to write base on your permanent notes
 - Use what you have, fill the blanks and focus the narrative
 7. Make a draft using your permanent notes, take care of your argument, what you want to transmit, does it have holes that you need to fill?
@@ -60,8 +60,6 @@ We should avoid forcing us to put energy on what we are writing and instead the 
 - Slipbox
 - Reference System / Link Resolver
 - Editor
-
-## ...
 
 ## References:
 [Zotero](zotero://select/library/items/XBQLBFDE) [attachment](file:///home/oacs/Zotero/storage/JR7XM3HZ/home/oacs/Books/How_to_take_smart_notes__one_simple_technique_to_boost_writing_learning_and_thinking_-_PDF_Room.pdf)

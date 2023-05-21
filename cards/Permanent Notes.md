@@ -5,9 +5,9 @@ aliases:
 tags: []
 ---
 # Permanent notes
-**Date** 2023-05-05-Fri
+**Date** [[2023-05-05]]
 
-**Summmary** 
+**Summary** 
 
 ## Note linked from
 
@@ -23,9 +23,7 @@ A permanent note should be writing as if we need to show it to someone else:
 - Show the source of the info
 - Precise, clear and brief as possible
 
-They enable us to develop ideas, arguments and topics that interest us enought to make a piece of our wisdowm and write it into our Second Brain/Zettelkasten
-
-
+They enable us to develop ideas, arguments and topics that interest us enought to make a piece of our wisdowm and write it into our Second Brain/[[Zettelkasten]]
 
 ## References:
 

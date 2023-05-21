@@ -1,12 +1,14 @@
-**Date** 2023-05-07
+# Access Folder Structure
+**Date** [[2023-05-07]]
 Tags: #🌱
-**Summmary** Explains the ACCESS folder structure from the video [^1]
+**Summary** Explains the ACCESS folder structure from the video [^1]
 
-## Note linked from
+### Note linked from
 [[2023-05-07]]
 
-## Bibliography
+### Bibliography
 [Folders to link](https://www.youtube.com/watch?v=p0zWJ-TLghw)
+
 ## Notes
 
 ### ACCESS
@@ -22,14 +24,14 @@ Access is a folder structure that tries to close the gap between action and know
 
 ### Atlas
 >It's the map to your world of knowledge
+>It helps to gather and group the knowledge that I own, here can go any high order notes that I use to group information and to help me navigate to it, for example:
 
-It helps to gather and group the knowledge that I own, here can go any high order notes that I use to group information and to help me navigate to it, for example:
 - Maps of Content(MOC)
 - Overviews
 - Dashboards
 
 ### Calendar
-Hore we keep track of all the information that is tied to time, for example:
+Here we keep track of all the information that is tied to time, for example:
 - Journals
 - Plans
 - Reviews
@@ -59,7 +61,7 @@ Its the literature notes where we base our knowledge, where we gather the source
 - Podcasts
 
 ### Spaces
-Here we organize the sections of our life that we want to focus on using our knowledge, it would be how we can action in base of our knowledge to take a desicion
+Here we organize the sections of our life that we want to focus on using our knowledge, it would be how we can action in base of our knowledge to take a decision
 - Life
 - Work
 - Hobbies

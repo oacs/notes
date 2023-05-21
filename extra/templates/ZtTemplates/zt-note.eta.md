@@ -1,4 +1,4 @@
-Date {{date}}
+Date [[<% tp.date.now("YYYY-MM-DD") %>]]
 Tags: #📙 
 **Summary**
 

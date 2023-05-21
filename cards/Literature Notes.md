@@ -5,13 +5,13 @@ aliases:
 tags: []
 ---
 # Literature notes
-**Date** 2023-05-05-Fri
+**Date** [[2023-05-05]]
 
-**Summmary** 
-
-## Note linked from
+**Summary** 
 
 ## Bibliography
+[[Digital Zettelkasten_ principles, methods, & examples]]
+[[How to take smart notes]]
 
 ## Notes
 

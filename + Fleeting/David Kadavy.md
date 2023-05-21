@@ -1,11 +1,3 @@
----
-id: "David Kadavy"
-aliases:
-  - "Libros"
-tags: []
----
-
-
 # Libros
 - [[Digital Zettelkasten]]
 - Mind Management, Not Time Management

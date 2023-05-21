@@ -6,9 +6,9 @@ tags: []
 ---
 
 # Fleeting notes
-**Date** 2023-05-05-Fri
+**Date** [[2023-05-05]]
 
-**Summmary** Whats a fleeting note and its characteristicts
+**Summary** Whats a fleeting note and its characteristics
 
 ## Note linked from
 [[1683217790-how-to-take-smart-notes|How to take smart notes]]

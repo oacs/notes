@@ -1,13 +1,12 @@
+# <% tp.file.cursor()%>
 **Date**  [[<% tp.date.now("YYYY-MM-DD") %>]] 
 Tags: #🌱
-**Summmary** 
+**Summary** 
 
-## Note linked from
-
-## Bibliography
+### Bibliography
 
 ## Notes
 
 ### <% tp.file.cursor()%>
-## References:
+### References:
 

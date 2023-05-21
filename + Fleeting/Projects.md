@@ -1,10 +1,9 @@
+# Projects
 **Date** 2023-05-08
 Tags: #🌱
-**Summmary** 
+**Summary** 
 
-## Note linked from
-
-## Bibliography
+### Bibliography
 
 ## Notes
 ### Projects
@@ -25,5 +24,5 @@ Here is the list of projects I want to do and invest time to them:
 
  
 
-## References:
+### References:
 

@@ -1,6 +1,7 @@
+# The Diderot Effect
 **Date**  [[2023-05-10]] 
 Tags: #🌱
-**Summmary** 
+**Summary** How the Diderot Effect works
 
 ## Note linked from
 
@@ -10,5 +11,7 @@ Tags: #🌱
 
 ### The Diderot Effect
 It states that obtaining a new possession often creates a spiral of comsuption that leads to more purchases
+
+Imagine that you buy a item from a collection, you will be more willing to buy more of the items of the collection, the same concept can be applied to others subjects
 
 ## References:

@@ -1,8 +1,12 @@
 ---
-zotero-key: ZNC8UTMI
-citekey: linkingyourthinkingFoldersLinksKey2022a
+id: "Folders or Links? The key to both is A.C.C.E.S.S."
+aliases:
+  - "Bibliography"
+tags: []
+citekey: "linkingyourthinkingFoldersLinksKey2022a"
 title:
-  - Folders or Links? The key to both is A.C.C.E.S.S.
+  - "Folders or Links? The key to both is A.C.C.E.S.S."
+zotero-key: "ZNC8UTMI"
 ---
 Date [07-05-2023]
 Tags: #📙 
@@ -15,7 +19,7 @@ Folders or Links? The key to both is A.C.C.E.S.S.
 ## Access folder structure
 
 ### Atlas
-It helps me navigate easily to all mi ideas and groups of knowledge
+It helps me navigate easily to all my ideas and groups of knowledge
 > it is the map to your world of knowledge
 ### Calendar
 It is focus to time-based information:
