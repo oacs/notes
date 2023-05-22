@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Inbox",
+      "path": "atlas/Inbox.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Atomic habits_ an easy & proven way to build good habits & break bad ones_ tiny changes, remarkab",
       "path": "sources/Atomic habits_ an easy & proven way to build good habits & break bad ones_ tiny changes, remarkab.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "atlas/Inbox.md"
     },
     {
       "basename": "+ About Atlas",
