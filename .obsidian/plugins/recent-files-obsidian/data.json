@@ -1,36 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "Wayland",
-      "path": "+ Fleeting/Wayland.md"
-    },
-    {
       "basename": "Zettelkasten",
       "path": "+ Fleeting/Zettelkasten.md"
     },
     {
-      "basename": "How to take smart notes",
-      "path": "sources/How to take smart notes.md"
+      "basename": "Wayland",
+      "path": "+ Fleeting/Wayland.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "+ Fleeting/Obsidian.md"
+    },
+    {
+      "basename": "My Zettelkasten",
+      "path": "+ Fleeting/My Zettelkasten.md"
+    },
+    {
+      "basename": "David Kadavy",
+      "path": "+ Fleeting/David Kadavy.md"
     },
     {
       "basename": "Atomic Git Commits",
       "path": "+ Fleeting/Atomic Git Commits.md"
     },
     {
-      "basename": "Album",
-      "path": "+ Fleeting/Album.md"
-    },
-    {
       "basename": "+ About Encounters",
       "path": "+ Fleeting/+ About Encounters.md"
     },
     {
-      "basename": "Digital Zettelkasten",
-      "path": "+ Fleeting/Digital Zettelkasten.md"
+      "basename": "2023-05-06",
+      "path": "calendar/daily/2023-05-06.md"
     },
     {
-      "basename": "Inbox",
-      "path": "atlas/Inbox.md"
+      "basename": "2023-05-09",
+      "path": "calendar/daily/2023-05-09.md"
+    },
+    {
+      "basename": "2023-05-10",
+      "path": "calendar/daily/2023-05-10.md"
+    },
+    {
+      "basename": "2023-05-11",
+      "path": "calendar/daily/2023-05-11.md"
+    },
+    {
+      "basename": "2023-05-17",
+      "path": "calendar/daily/2023-05-17.md"
+    },
+    {
+      "basename": "2023-05-20",
+      "path": "calendar/daily/2023-05-20.md"
+    },
+    {
+      "basename": "2023-05-21",
+      "path": "calendar/daily/2023-05-21.md"
+    },
+    {
+      "basename": "2023-05-22",
+      "path": "calendar/daily/2023-05-22.md"
+    },
+    {
+      "basename": "2023-05-14",
+      "path": "calendar/daily/2023-05-14.md"
+    },
+    {
+      "basename": "2023-05-07",
+      "path": "calendar/daily/2023-05-07.md"
+    },
+    {
+      "basename": "2023-05-05",
+      "path": "calendar/daily/2023-05-05.md"
+    },
+    {
+      "basename": "2023-03-19",
+      "path": "calendar/daily/2023-03-19.md"
+    },
+    {
+      "basename": "2023-03-17",
+      "path": "calendar/daily/2023-03-17.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "cards/Zettelkasten.md"
+    },
+    {
+      "basename": "Why we need to write?",
+      "path": "cards/Why we need to write?.md"
+    },
+    {
+      "basename": "When to write notes?",
+      "path": "cards/When to write notes?.md"
+    },
+    {
+      "basename": "The Diderot Effect",
+      "path": "cards/The Diderot Effect.md"
+    },
+    {
+      "basename": "Permanent Notes",
+      "path": "cards/Permanent Notes.md"
+    },
+    {
+      "basename": "Literature Notes",
+      "path": "cards/Literature Notes.md"
+    },
+    {
+      "basename": "Fleeting Notes",
+      "path": "cards/Fleeting Notes.md"
+    },
+    {
+      "basename": "Access Folder Structure",
+      "path": "cards/Access Folder Structure.md"
+    },
+    {
+      "basename": "How to take smart notes",
+      "path": "sources/How to take smart notes.md"
     },
     {
       "basename": "Getting things done_ the art of stress-free productivity",
@@ -53,16 +137,20 @@
       "path": "Home.md"
     },
     {
+      "basename": "Inbox",
+      "path": "atlas/Inbox.md"
+    },
+    {
+      "basename": "+ About Atlas",
+      "path": "atlas/+ About Atlas.md"
+    },
+    {
+      "basename": "Album",
+      "path": "+ Fleeting/Album.md"
+    },
+    {
       "basename": "Drawing 2023-05-21 15.05.53.excalidraw",
       "path": "extra/Excalidraw/Drawing 2023-05-21 15.05.53.excalidraw.md"
-    },
-    {
-      "basename": "The Diderot Effect",
-      "path": "cards/The Diderot Effect.md"
-    },
-    {
-      "basename": "2023-05-20",
-      "path": "calendar/daily/2023-05-20.md"
     },
     {
       "basename": "Videogame",
@@ -77,14 +165,6 @@
       "path": "+ Fleeting/Projects.md"
     },
     {
-      "basename": "Obsidian",
-      "path": "+ Fleeting/Obsidian.md"
-    },
-    {
-      "basename": "My Zettelkasten",
-      "path": "+ Fleeting/My Zettelkasten.md"
-    },
-    {
       "basename": "Increase Weight",
       "path": "+ Fleeting/Increase Weight.md"
     },
@@ -97,48 +177,8 @@
       "path": "+ Fleeting/Diet.md"
     },
     {
-      "basename": "David Kadavy",
-      "path": "+ Fleeting/David Kadavy.md"
-    },
-    {
       "basename": "note.template",
       "path": "extra/templates/note.template.md"
-    },
-    {
-      "basename": "Fleeting Notes",
-      "path": "cards/Fleeting Notes.md"
-    },
-    {
-      "basename": "Access Folder Structure",
-      "path": "cards/Access Folder Structure.md"
-    },
-    {
-      "basename": "Literature Notes",
-      "path": "cards/Literature Notes.md"
-    },
-    {
-      "basename": "When to write notes?",
-      "path": "cards/When to write notes?.md"
-    },
-    {
-      "basename": "Why we need to write?",
-      "path": "cards/Why we need to write?.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "cards/Zettelkasten.md"
-    },
-    {
-      "basename": "2023-05-05",
-      "path": "calendar/daily/2023-05-05.md"
-    },
-    {
-      "basename": "2023-05-11",
-      "path": "calendar/daily/2023-05-11.md"
-    },
-    {
-      "basename": "Permanent Notes",
-      "path": "cards/Permanent Notes.md"
     },
     {
       "basename": "Drawing 2023-03-19 10.17.09.excalidraw",
@@ -155,46 +195,6 @@
     {
       "basename": "zt-annot.eta",
       "path": "extra/templates/ZtTemplates/zt-annot.eta.md"
-    },
-    {
-      "basename": "zt-annots.eta",
-      "path": "extra/templates/ZtTemplates/zt-annots.eta.md"
-    },
-    {
-      "basename": "zt-note.eta",
-      "path": "extra/templates/ZtTemplates/zt-note.eta.md"
-    },
-    {
-      "basename": "daily.template",
-      "path": "extra/templates/daily.template.md"
-    },
-    {
-      "basename": "monthly.template",
-      "path": "extra/templates/monthly.template.md"
-    },
-    {
-      "basename": "quarter.template",
-      "path": "extra/templates/quarter.template.md"
-    },
-    {
-      "basename": "weekly.template",
-      "path": "extra/templates/weekly.template.md"
-    },
-    {
-      "basename": "yearly.template",
-      "path": "extra/templates/yearly.template.md"
-    },
-    {
-      "basename": "zotero.template",
-      "path": "extra/templates/zotero.template.md"
-    },
-    {
-      "basename": "Digital Zettelkasten - Highlights",
-      "path": "sources/highlights/Digital Zettelkasten - Highlights.md"
-    },
-    {
-      "basename": "2023-03-19",
-      "path": "calendar/daily/2023-03-19.md"
     }
   ],
   "omittedPaths": [],
