@@ -1,1 +1,0 @@
-Me di cuenta que es mucho mas sencillo que no fume en vez de hacerlo una vez para calmar la ansiedad, en lo que empiezo es un ciclo que termina en yo durmiendo y sintiéndome mal par hacerle dano a mi cuerpo y pulmones
