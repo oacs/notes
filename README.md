@@ -1,9 +1,6 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# OACS Zettelkasten
+Hey there and welcome to my notes, I will describe this repo as a work in progress, don't take my words as final statements, feel free to leave comments or to give me your ideas
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
-
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+## Special Thanks to
+- Thanks to my lovely wife to give me the motivation to keep learning forward @mariatiperez
+- Thanks to @TheCedarPrince to motivate me into making this repo public!

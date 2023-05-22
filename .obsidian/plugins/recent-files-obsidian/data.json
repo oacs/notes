@@ -5,6 +5,10 @@
       "path": "Home.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Zettelkasten",
       "path": "+ Fleeting/Zettelkasten.md"
     },
