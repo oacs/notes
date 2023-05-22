@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Zettelkasten",
       "path": "+ Fleeting/Zettelkasten.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "Atomic habits_ an easy & proven way to build good habits & break bad ones_ tiny changes, remarkab",
       "path": "sources/Atomic habits_ an easy & proven way to build good habits & break bad ones_ tiny changes, remarkab.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Inbox",
