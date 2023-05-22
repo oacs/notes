@@ -1,0 +1,14 @@
+{
+  "token": "e9YQEHGNLWohEkud38f1dbRCqDmkNmP2jX1W7YBwoJrRYPfLpF",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 8570803,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {},
+  "reimportShowConfirmation": true
+}

@@ -1,0 +1,6 @@
+{
+  "folder": "calendar/daily",
+  "template": "extra/templates/daily.template",
+  "autorun": true,
+  "format": ""
+}

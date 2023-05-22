@@ -1,0 +1,33 @@
+{
+  "leader-hotkeys-obsidian:register-modal": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:toggle-bold": [],
+  "switcher:open": [],
+  "editor:toggle-italics": [],
+  "editor:toggle-checklist-status": [],
+  "obsidian-zotero-plugin:note-quick-switcher": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-zotero-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "templater-obsidian:extra/templates/note.template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "extra/media",
+  "vimMode": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+ Fleeting",
+  "showInlineTitle": false
+}
