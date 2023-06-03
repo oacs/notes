@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fashion Cloud",
+      "path": "+ Fleeting/Fashion Cloud.md"
+    },
+    {
       "basename": "Inbox",
       "path": "atlas/Inbox.md"
     },
@@ -9,8 +13,32 @@
       "path": "Home.md"
     },
     {
+      "basename": "2023-05-30",
+      "path": "calendar/daily/2023-05-30.md"
+    },
+    {
+      "basename": "Drawing 2023-05-30 14.46.07.excalidraw",
+      "path": "extra/Excalidraw/Drawing 2023-05-30 14.46.07.excalidraw.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "2023-05-25",
+      "path": "calendar/daily/2023-05-25.md"
+    },
+    {
+      "basename": "note.template",
+      "path": "extra/templates/note.template.md"
+    },
+    {
+      "basename": "weekly.template",
+      "path": "extra/templates/weekly.template.md"
+    },
+    {
+      "basename": "2023-05-24",
+      "path": "calendar/daily/2023-05-24.md"
     },
     {
       "basename": "Zettelkasten",
@@ -167,38 +195,6 @@
     {
       "basename": "Projects",
       "path": "+ Fleeting/Projects.md"
-    },
-    {
-      "basename": "Increase Weight",
-      "path": "+ Fleeting/Increase Weight.md"
-    },
-    {
-      "basename": "Es mas facil no fumar que para de fumar",
-      "path": "+ Fleeting/Es mas facil no fumar que para de fumar.md"
-    },
-    {
-      "basename": "Diet",
-      "path": "+ Fleeting/Diet.md"
-    },
-    {
-      "basename": "note.template",
-      "path": "extra/templates/note.template.md"
-    },
-    {
-      "basename": "Drawing 2023-03-19 10.17.09.excalidraw",
-      "path": "extra/Excalidraw/Drawing 2023-03-19 10.17.09.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-03-20 18.23.44.excalidraw",
-      "path": "extra/Excalidraw/Drawing 2023-03-20 18.23.44.excalidraw.md"
-    },
-    {
-      "basename": "Pasted image 20230318012133",
-      "path": "extra/media/Pasted image 20230318012133.png"
-    },
-    {
-      "basename": "zt-annot.eta",
-      "path": "extra/templates/ZtTemplates/zt-annot.eta.md"
     }
   ],
   "omittedPaths": [],
