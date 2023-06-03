@@ -8,18 +8,18 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { headerToId, namedHeadingsFilter } = require("./extra/src/helpers/utils");
 const {
   userMarkdownSetup,
   userEleventySetup,
-} = require("./src/helpers/userSetup");
+} = require("./extra/src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
-    outputDir: "./dist/img/optimized",
+    outputDir: "./extra/dist/img/optimized",
     urlPath: "/img/optimized",
   };
 
@@ -218,7 +218,7 @@ module.exports = function (eleventyConfig) {
         let deadLink = false;
 
         try {
-          const startPath = "./src/site/notes/";
+          const startPath = "./extra/src/site/notes/";
           const fullPath = fileName.endsWith(".md")
             ? `${startPath}${fileName}`
             : `${startPath}${fileName}.md`;
@@ -346,7 +346,7 @@ module.exports = function (eleventyConfig) {
 
         try {
           const meta = transformImage(
-            "./src/site" + decodeURI(t.getAttribute("src")),
+            "./extra/src/site" + decodeURI(t.getAttribute("src")),
             cls.toString(),
             alt,
             ["(max-width: 480px)", "(max-width: 1024px)"]
@@ -430,10 +430,10 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addPassthroughCopy("src/site/img");
-  eleventyConfig.addPassthroughCopy("src/site/scripts");
-  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPassthroughCopy("extra/src/site/img");
+  eleventyConfig.addPassthroughCopy("extra/src/site/scripts");
+  eleventyConfig.addPassthroughCopy("extra/src/site/styles/_theme.*.css");
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "extra/dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
@@ -468,8 +468,8 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: "src/site",
-      output: "dist",
+      input: "extra/src/site",
+      output: "extra/dist",
       data: `_data`,
     },
     templateFormats: ["njk", "md", "11ty.js"],
