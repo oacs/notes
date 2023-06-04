@@ -1,0 +1,17 @@
+[
+{
+		"title": "Home",
+		"date":"Sat Jun 03 2023 13:09:39 GMT-0400 (Eastern Daylight Time)",
+		"url":"/",
+		"content": "Home 🌎🚀\nYour launchpad and home base. That's here. That's home.\nAtlas\nThese are maps to launch your efforts. Where would you like to go?\n\nMy Main Sense-making\n\n01 - <a class=\"internal-link \" data-note-icon=\"undefined\" href=\"/atlas/inbox/\">Inbox</a>\n02 - <a class=\"internal-link is-unresolved\"  href=\"/notes/calendar-daily-daily-notes\">+ Daily Notes</a>",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "Inbox",
+		"date":"Sat Jun 03 2023 13:09:39 GMT-0400 (Eastern Daylight Time)",
+		"url":"/atlas/inbox/",
+		"content": "The Inbox\nThis isn't a normal inbox. It's a cooling pad 🧊.\nThoughts come in hot 🌶. But after a few days, they cool down ❄️.\nWhen cooler thoughts prevail, you can better prioritize. Cool?\nThis view looks at the 20 newest notes in your + Encounters folder. As you process each note, make connections, add details, move them to the best folder, and delete everything that no longer sparks ✨.\nTABLE WITHOUT ID\nfile.link as &quot;Encounters and new notes&quot;,\n(date(today) - file.cday).day as &quot;Days alive&quot;\n\nFROM &quot;+ Fleeting&quot; and -#on/readme\n\nSORT file.cday desc\n\nLIMIT 20\n\nIf you want to encounter some new things, check out: 🐦 or 📚",
+		"tags": [ "note"]
+}
+]
